@@ -1,0 +1,11 @@
+body {
+    background-color: bisque;
+}
+body{
+    margin: 0 auto;
+}
+header{
+    background-image: url(WhatsApp\ Image\ 2024-09-02\ at\ 19.07.17.png) no-repeat center; 
+    height: 600px;
+    top:0;
+}
